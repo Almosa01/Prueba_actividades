@@ -5,3 +5,4 @@
 Una vez instalamos expo se instalan las librerias desde donde se ha creado el proyecto 
 Ejecutas con : npm start
 Y pulsas "W" para abrir en el navegador
+Simplemente sustituyes el App y copias la carpeta screens
